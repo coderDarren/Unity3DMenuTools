@@ -10,6 +10,8 @@ There are 3 major components in this system:
   
  Together, these components provide everything you need to create robust menu systems with page transitions and button animations. A good bit of work has been done ensure page integrity when switching between pages, and simplifying the process of creating buttons that do exactly what you want them to do. I'll describe in detail what each component offers below.
  
+ There are certainly many more features in this package, and I will cover those as well. There are example scenes in the package that describe how to take advantage of these features, and I will dissect those scenes a little bit later.
+ 
 # PageManager.cs
 _____________________________________________________________
  
